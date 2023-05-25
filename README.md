@@ -1,1 +1,3 @@
-# Javascript - estudo com base em orientação objetos - json.
+# Javascript 
+
+- estudo com base em orientação objetos - json.
